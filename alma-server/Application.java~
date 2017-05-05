@@ -1,0 +1,4 @@
+<settings><proxies>
+<proxy><active>true</active><protocol>https</protocol><host>proxy.ensinfo.sciences.univ-nantes.prive</host><port>3128</port></proxy>
+<proxy><active>true</active><protocol>http</protocol><host>proxy.ensinfo.sciences.univ-nantes.prive</host><port>3128</port></proxy>
+</proxies></settings>
